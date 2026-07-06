@@ -13,7 +13,7 @@ This repository contains all the tasks completed during my Web Development Inter
 - JavaScript
 
 ## Intern Details
-Name: Yash Madaan
-Domain: Web Development
-Organization: CodSoft
-Duration: July 2026 - August 2026
+- Name: Yash Madaan
+- Domain: Web Development
+- Organization: CodSoft
+- Duration: July 2026 - August 2026
